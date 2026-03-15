@@ -1,0 +1,16 @@
+{
+  "name": "components-v2",
+  "version": "1.0.0",
+  "description": "Simple Lib for Discord Components v2",
+  "main": "src/index.js",
+  "keywords": ["discord", "bot"],
+  "author": "layla_leaks",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GIT_REPO"
+  }
+}
